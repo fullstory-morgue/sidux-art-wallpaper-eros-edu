@@ -1,6 +1,10 @@
-sidux-art-wallpaper-eros-edu (001-1) unstable; urgency=low
+sidux-art-wallpaper-eros-edu (0.1) unstable; urgency=low
 
+  [ Horst Tritremmel ]
   * Initial release.
 
- -- Horst Tritremmel <hjt@sidux.com>  Wed, 24 Oct 2007 14:58:14 +0200
+  [ Stefan Lippers-Hollmann ]
+  * fix debian/copyright.
+  * minor tweaking.
 
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 24 Oct 2007 16:48:26 +0200
