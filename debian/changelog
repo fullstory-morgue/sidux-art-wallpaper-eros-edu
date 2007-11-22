@@ -6,8 +6,9 @@ sidux-art-wallpaper-eros-edu (0.2) UNRELEASED; urgency=low
   [ Horst Tritremmel ]
   * wallpaper updated, thx to cobra
   * copyright holder changed to Dinko Szabo (cobra)
+  * Conflicts and Provides added to control
 
- -- Horst Tritremmel <hjt@sidux.com>  Wed, 21 Nov 2007 22:24:05 +0100
+ -- Horst Tritremmel <hjt@sidux.com>  Thu, 22 Nov 2007 15:36:06 +0100
 
 sidux-art-wallpaper-eros-edu (0.1) unstable; urgency=low
 

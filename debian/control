@@ -9,6 +9,9 @@ Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-wallpaper-eros-edu/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-wallpaper-eros-edu/trunk/
 
 Package: sidux-art-wallpaper-eros-edu
+Provides: sidux-art-wallpaper-eros
+#Replaces: sidux-art-wallpaper-eros
+Conflicts: sidux-art-wallpaper-eros
 Architecture: all
 Description: sidux-edu wallpaper for 2007-04 release 
  the education wallpaper for the 2007-04 (Eros Education)
