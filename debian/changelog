@@ -1,22 +1,18 @@
-sidux-art-wallpaper-eros-edu (0.2) UNRELEASED; urgency=low
+sidux-art-wallpaper-eros-edu (0.1) UNRELEASED; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
-  [ Horst Tritremmel ]
+  * Initial release.
   * wallpaper updated, thx to cobra
   * copyright holder changed to Dinko Szabo (cobra)
   * Conflicts and Provides added to control
 
- -- Horst Tritremmel <hjt@sidux.com>  Thu, 22 Nov 2007 15:36:06 +0100
-
-sidux-art-wallpaper-eros-edu (0.1) unstable; urgency=low
-
-  [ Horst Tritremmel ]
-  * Initial release.
-
   [ Stefan Lippers-Hollmann ]
-  * fix debian/copyright.
+  * fix debian/copyright, NOT O.K. YET!
   * minor tweaking.
+  * determine and list the copyright status of Albert Einstein's portrait.
+  * GPL2 requires to ship the "source code for a work means the preferred form
+    of the work for making modifications to it", in this case it is obviously
+    a bitmap image with layering informations.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 24 Oct 2007 16:48:26 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 23 Nov 2007 23:17:53 +0100
