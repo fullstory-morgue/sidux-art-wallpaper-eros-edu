@@ -15,4 +15,8 @@ sidux-art-wallpaper-eros-edu (0.1) UNRELEASED; urgency=low
     of the work for making modifications to it", in this case it is obviously
     a bitmap image with layering informations.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 23 Nov 2007 23:17:53 +0100
+  [ Horst Tritremmel ]
+  * wallpaper changed, based on clearys eros wallpaper
+  * .source added
+
+ -- Horst Tritremmel <hjt@sidux.com>  Mon, 26 Nov 2007 11:16:20 +0100
