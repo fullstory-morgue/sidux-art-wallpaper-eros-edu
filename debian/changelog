@@ -1,9 +1,5 @@
-sidux-art-wallpaper-eros-edu (0.3) UNRELEASED; urgency=low
+sidux-art-wallpaper-eros-edu (0.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Horst Tritremmel ]
   * sidux-eros-1280x1024.png sidux-eros-1920x1200.png updated
 
  -- Horst Tritremmel <hjt@sidux.com>  Tue, 04 Dec 2007 15:51:49 +0100
