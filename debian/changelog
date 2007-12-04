@@ -1,9 +1,13 @@
 sidux-art-wallpaper-eros-edu (0.2) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
   * update to Standards-Version 3.7.3, no changes necessary.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 03 Dec 2007 14:10:39 +0100
+  [ Horst Tritremmel ]
+  * sidux-eros-1600x1200.png updated, thx to cleary
+
+ -- Horst Tritremmel <hjt@sidux.com>  Tue, 04 Dec 2007 13:38:49 +0100
 
 sidux-art-wallpaper-eros-edu (0.1) unstable; urgency=low
 
