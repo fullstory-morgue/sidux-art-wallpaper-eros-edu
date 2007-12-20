@@ -1,8 +1,12 @@
 sidux-art-wallpaper-eros-edu (0.4) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 04 Dec 2007 16:39:07 +0100
+  [ Ferdinand Thommes ]
+  * changed seminarix wallpaper
+
+ -- Ferdinand Thommes <devil@sidux.com>  Thu, 20 Dec 2007 13:37:54 +0100
 
 sidux-art-wallpaper-eros-edu (0.3) unstable; urgency=low
 
