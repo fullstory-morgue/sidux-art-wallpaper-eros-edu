@@ -1,8 +1,8 @@
-sidux-art-wallpaper-eros-edu (0.6) UNRELEASED; urgency=low
+sidux-art-wallpaper-eros-edu (0.6) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * appease lintian and write (C) as © in debian/copyright.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 19 Jan 2008 02:01:07 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 21 Feb 2008 00:15:36 +0100
 
 sidux-art-wallpaper-eros-edu (0.5) unstable; urgency=low
 
