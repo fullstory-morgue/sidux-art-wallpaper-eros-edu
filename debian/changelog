@@ -1,8 +1,8 @@
-sidux-art-wallpaper-eros-edu (0.7) UNRELEASED; urgency=low
+sidux-art-wallpaper-eros-edu (0.7) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * refine dependency relations.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 21 Feb 2008 00:16:44 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 10 Mar 2008 00:54:11 +0100
 
 sidux-art-wallpaper-eros-edu (0.6) unstable; urgency=low
 
