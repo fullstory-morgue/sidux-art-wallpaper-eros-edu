@@ -9,6 +9,7 @@ Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-wallpaper-eros-edu/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-wallpaper-eros-edu/trunk/
 
 Package: sidux-art-wallpaper-eros-edu
+Depends: ${misc:Depends}
 Provides: sidux-art-wallpaper-theme
 Conflicts: sidux-art-wallpaper-eros
 Architecture: all
