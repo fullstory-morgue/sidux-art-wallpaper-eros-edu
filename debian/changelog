@@ -1,3 +1,9 @@
+sidux-art-wallpaper-eros-edu (0.11) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:38:56 +0100
+
 sidux-art-wallpaper-eros-edu (0.10) unstable; urgency=low
 
   * make lintian happy and depend on ${misc:Depends}.
