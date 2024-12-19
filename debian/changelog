@@ -2,6 +2,7 @@ sidux-art-wallpaper-eros-edu (0.12) ORPHANED; urgency=low
 
   * NOT RELEASED YET
   * ORPHAN PACKAGE, moved to sidux-art-legacy.
+  * refresh SVG graphics, shut up inkscape's migration from old versions.
 
  -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 19 Apr 2009 14:02:45 +0200
 
